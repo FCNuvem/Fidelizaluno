@@ -26,6 +26,11 @@ Além do acesso à diversas funcionalidades na versão para desktop, os professo
 
 ![](04.Images/mobile.png) ![](04.Images/mobile2.png) ![](04.Images/mobile3.png)
 
+## Conheça os principais benefícios:
+
+![](04.Images/beneficios.png)
+
+
 
 > Se você quer conhecer melhor a versão premium e customizada, fale com o nosso time:
 
